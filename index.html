@@ -8,13 +8,20 @@
 </head>
 <body>
     <h1>NPTEL Introduction to Internet of Things Quiz</h1>
+
+    <!-- Navigation buttons (only one set at the top) -->
+    <div id="navigation-buttons" class="navigation-controls">
+        <button id="prev-button" disabled>Previous</button>
+        <button id="next-button" disabled>Next</button>
+        <button id="start-pyq-button">Start PYQs</button>
+    </div>
+
     <div id="quiz-container">
         <!-- Questions will be loaded here by JavaScript -->
     </div>
-    <div id="navigation-buttons">
-        <button id="prev-button" disabled>Previous</button>
-        <button id="next-button" disabled>Next</button>
-    </div>
+
+    <!-- Removed bottom navigation buttons -->
+
     <script src="quiz.js"></script>
 </body>
 </html>

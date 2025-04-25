@@ -1,4 +1,5 @@
-const quizData = [
+// Hardcoded quiz data (replace fetch)
+let allQuizData = [ // Renamed to avoid conflict
     // Week 0
     {
         question: "Which of the following allows us to identify objects and extract information?",
@@ -1783,12 +1784,25 @@ const quizData = [
     }
 ];
 
+// Get references to buttons (single set)
 const quizContainer = document.getElementById('quiz-container');
 const prevButton = document.getElementById('prev-button');
 const nextButton = document.getElementById('next-button');
+const startPyqButton = document.getElementById('start-pyq-button');
+
 let currentQuestionIndex = 0;
 const questionsPerPage = 10; // Show 10 questions per page
+let quizData = []; // This will hold the final ordered and shuffled data
 
+// --- Utility Function: Fisher-Yates Shuffle ---
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]]; // Swap elements
+  }
+}
+
+// --- Display Logic ---
 function displayQuestions() {
     quizContainer.innerHTML = ''; // Clear previous questions
     const startIndex = currentQuestionIndex;
@@ -1798,7 +1812,7 @@ function displayQuestions() {
         const questionData = quizData[i];
         const questionBlock = document.createElement('div');
         questionBlock.classList.add('question-block');
-        questionBlock.dataset.index = i; // Store original index
+        questionBlock.dataset.index = i; // Store original index (after shuffling)
 
         const questionElement = document.createElement('h3'); // The h3 container
 
@@ -1846,9 +1860,15 @@ function displayQuestions() {
         const optionsContainer = document.createElement('div');
         optionsContainer.classList.add('options');
 
-        questionData.options.forEach(option => {
+        // --- Shuffle options before displaying ---
+        const shuffledOptions = [...questionData.options]; // Create a copy to shuffle
+        shuffleArray(shuffledOptions);
+        // --- ---
+
+        shuffledOptions.forEach(option => {
             const button = document.createElement('button');
             button.textContent = option;
+            // Pass the original correct answer text for comparison
             button.onclick = () => checkAnswer(button, option, questionData.correct, questionBlock);
             optionsContainer.appendChild(button);
         });
@@ -1861,6 +1881,7 @@ function displayQuestions() {
     updateNavigationButtons();
 }
 
+// ... existing checkAnswer function ...
 function checkAnswer(button, selectedOption, correctAnswer, questionBlock) {
     const feedbackElement = document.createElement('div');
     feedbackElement.classList.add('feedback');
@@ -1893,31 +1914,86 @@ function checkAnswer(button, selectedOption, correctAnswer, questionBlock) {
     questionBlock.appendChild(feedbackElement);
 }
 
+
+// --- Navigation Logic ---
+// ... existing updateNavigationButtons function ...
 function updateNavigationButtons() {
-    prevButton.disabled = currentQuestionIndex <= 0;
-    nextButton.disabled = currentQuestionIndex + questionsPerPage >= quizData.length;
+    const isFirstPage = currentQuestionIndex === 0;
+    const isLastPage = quizData && quizData.length > 0 ? currentQuestionIndex >= quizData.length - questionsPerPage : true;
+
+    prevButton.disabled = isFirstPage;
+    nextButton.disabled = isLastPage;
+
+    // Disable PYQ button if no PYQ questions exist
+    const firstPyqIndex = findFirstPyqIndex();
+    startPyqButton.disabled = firstPyqIndex === -1; // Ensure this line exists and is correct
 }
 
-prevButton.addEventListener('click', () => {
-    if (currentQuestionIndex > 0) {
-        currentQuestionIndex -= questionsPerPage;
-        displayQuestions();
-    }
-});
+// ... existing findFirstPyqIndex function ...
+function findFirstPyqIndex() {
+    if (!quizData || quizData.length === 0) return -1;
+    return quizData.findIndex(q => q.source === 'pyq');
+}
 
-nextButton.addEventListener('click', () => {
-    if (currentQuestionIndex + questionsPerPage < quizData.length) {
-        currentQuestionIndex += questionsPerPage;
-        displayQuestions();
-    }
-});
 
-// Initialize the quiz
-function startQuiz() {
-    currentQuestionIndex = 0;
+// --- Event Listeners --- 
+// ... existing handleStartPyq, handlePrevious, handleNext functions ...
+function handleStartPyq() {
+    const firstPyqIndex = findFirstPyqIndex();
+    if (firstPyqIndex !== -1) {
+        // Calculate the starting index of the page containing the first PYQ
+        currentQuestionIndex = Math.floor(firstPyqIndex / questionsPerPage) * questionsPerPage;
+        displayQuestions(); // Refresh display to show the correct page
+    }
+}
+
+function handlePrevious() {
+    currentQuestionIndex -= questionsPerPage;
+    if (currentQuestionIndex < 0) {
+        currentQuestionIndex = 0;
+    }
     displayQuestions();
 }
 
-// Start the quiz when the page loads
-document.addEventListener('DOMContentLoaded', startQuiz);
+function handleNext() {
+    currentQuestionIndex += questionsPerPage;
+    if (quizData && quizData.length > 0 && currentQuestionIndex >= quizData.length) {
+        currentQuestionIndex = Math.max(0, Math.floor((quizData.length - 1) / questionsPerPage) * questionsPerPage);
+    }
+    displayQuestions();
+}
+
+
+// Add listeners to the single set of buttons
+startPyqButton.addEventListener('click', handleStartPyq);
+prevButton.addEventListener('click', handlePrevious);
+nextButton.addEventListener('click', handleNext);
+
+// --- Initial Load --- 
+// Removed startQuiz function and fetch logic
+
+// Display initial questions when the page loads using the hardcoded data
+document.addEventListener('DOMContentLoaded', () => {
+    if (allQuizData.length > 0) {
+        // 1. Separate questions by source
+        const originalQuestions = allQuizData.filter(q => q.source === 'original');
+        const pyqQuestions = allQuizData.filter(q => q.source === 'pyq');
+
+        // 2. Shuffle questions within each group
+        shuffleArray(originalQuestions);
+        shuffleArray(pyqQuestions);
+
+        // 3. Combine the shuffled groups (originals first, then PYQs)
+        quizData = [...originalQuestions, ...pyqQuestions];
+
+        // 4. Reset index and display
+        currentQuestionIndex = 0;
+        displayQuestions();
+    } else {
+        quizContainer.innerHTML = '<p>No questions found in hardcoded data.</p>';
+        updateNavigationButtons(); // Still update buttons
+    }
+});
+
+// Removed parseMarkdown function as it's no longer needed
 
