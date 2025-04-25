@@ -27,6 +27,17 @@ h1 {
 .question-block h3 {
     margin-bottom: 10px;
     color: #555;
+    display: flex; /* Use flexbox for alignment */
+    align-items: baseline; /* Align text baselines */
+    flex-wrap: wrap; /* Allow wrapping if needed */
+}
+
+.source-label {
+    font-size: 0.8em; /* Make label smaller */
+    font-weight: normal; /* Normal weight */
+    color: #888; /* Grey color */
+    margin-left: 8px; /* Space before the label */
+    white-space: nowrap; /* Prevent label from wrapping */
 }
 
 .question-block h3 pre {
