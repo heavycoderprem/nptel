@@ -29,6 +29,15 @@ h1 {
     color: #555;
 }
 
+.question-block h3 pre {
+    white-space: pre-wrap; /* Wrap long lines */
+    word-wrap: break-word; /* Break words if necessary */
+    overflow-x: auto;      /* Add horizontal scroll if still needed */
+    margin: 0;             /* Reset default pre margins */
+    font-family: inherit;  /* Inherit font from h3 */
+    font-size: inherit;    /* Inherit font size from h3 */
+}
+
 .options button {
     display: block;
     width: 100%;

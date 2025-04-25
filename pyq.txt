@@ -1,0 +1,2965 @@
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Introduction to
+Internet of Things
+Assignment-Week 1
+TYPE OF QUESTION: MCQ/MSQ
+Number of questions: 15
+
+Total marks: 15 X 1= 15
+
+QUESTION 1:
+Which of the following is/are the characteristics of IoT?
+a.
+b.
+c.
+d.
+
+Efficient, scalable and associated architecture.
+Unambiguous naming and addressing.
+Abundance of sleeping nodes, mobile and non-IP device.
+All of the these
+
+Correct Answer: d. All of the these
+Detailed Solution: Characteristics of IoT are –
+a. Efficient, scalable and associated architecture.
+b. Unambiguous naming and addressing.
+c. Abundance of sleeping nodes, mobile and non-IP device.
+See lecture 1 (Introduction to IoT – Part - I) @ 16:06
+
+QUESTION 2:
+A ___________ allows us to use our smartphones to lock and unlock our door remotely at
+our homes or our businesses.
+a. Smart Meter
+b. ATM
+c. Digital Lock
+d. Web
+Correct Answer: c. Digital Lock
+Detailed Solution: Smartphones can be used to lock and unlock doors remotely, and
+business owners can change key codes rapidly to grant or restrict access to employees and
+guests.
+See lecture 1 (Introduction to IoT – Part - I) @ 25:35
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 3:
+The function/functions of an IoT Gateway is/are to?
+a. Forward packets between LAN and WAN and on the IP layer
+b. Connect IoT LAN to a WAN
+c. Both (a) and (b)
+d. None of these
+Correct Answer: c. Both (a) and (b)
+Detailed Solution: An IoT Gateway is a router connecting the IoT LAN to a WAN to the
+Internet, can implement several LAN and WAN, Forwards packets between LAN and WAN
+and on the IP layer.
+See lecture 2 (Introduction to IoT – Part - II) @ 04:44
+
+QUESTION 4:
+Multi-homing is the concept where a node can be connected to multiple networks for _________.
+a. Reduced Reliability
+b. Improved Reliability
+c. None of these
+d. Both (a) and (b)
+Correct Answer: b. Improved Reliability
+Detailed Solution: Multi-homing is a concept where a node or an IoT device or a subnetwork can be connected to multiple networks for improving the reliability.
+See lecture 2 (Introduction to IoT – Part - II) @ 15:27
+QUESTION 5:
+A Passive Infrared Ray (PIR) sensor is used for ____________?
+a. Humidity Detection
+b. Tilt Detection
+c. Obstacle Detection
+d. Smoke Detection
+Correct Answer: c. Obstacle Detection
+Detailed Solution: Passive Infrared Ray (PIR) sensor can be used to detect if there is any
+obstacle.
+See lecture 3 (Sensing) @ 04:13
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 6:
+For which of the following, Vector Sensors are required to measure or sense them?
+a. Color, Pressure, Temperature
+b. Orientation, Image
+c. None of these
+d. Both (a) and (b)
+Correct Answer: b. Orientation, Image
+Detailed Solution: Vector Sensors produce output signal or voltage which is generally
+proportional to the magnitude, direction, as well as the orientation of the quantity being
+measured. Physical quantities such as sound, image, velocity, acceleration, orientation, etc.
+are all vector quantities, as only their magnitude is not sufficient to convey the complete
+information.
+See lecture 3 (Sensing) @ 16:14
+QUESTION 7:
+The sensitivity of a sensor under real conditions may differ from the value specified. This is
+called _____________?
+a.
+b.
+c.
+d.
+
+Maximal Error
+Minimal Error
+Median Error
+Sensitivity Error
+
+Correct Answer: d. Sensitivity Error
+Detailed Solution: The sensitivity of a sensor under real conditions may differ from the
+value specified. This is called sensitivity error.
+See lecture 3 (Sensing) @ 19:33
+QUESTION 8:
+A random deviation of the signal that varies in time is called ____________.
+a. Noise
+b. Sound
+c. Bias
+d. None of these
+Correct Answer: a. Noise.
+Detailed Solution: Noise is a random deviation of the signal that varies in time.
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+See lecture 3 (Sensing) @ 22:42
+
+QUESTION 9:
+A Relay Switch is an example of _____________.
+a.
+b.
+c.
+d.
+
+A Sensor
+An Actuator
+A Transducer
+None of These
+
+Correct Answer: b. An Actuator
+Detailed Solution: Relay Switch is an example of an actuator. It is an electromechanical
+switch that can be used to perform On/Off operations of electrical appliances.
+See lecture 4 (Actuation) @ 01:37
+
+QUESTION 10:
+What is a Pneumatic Actuator?
+a. It is a type of actuator driven by compressed air or vacuum
+b. It is a type of actuator driven by fluid
+c. It is a type of actuator driven by solid
+d. None of these
+Correct Answer: a. It is a type of actuator driven by compressed air or vacuum
+Detailed Solution: A pneumatic actuator converts energy formed by vacuum or
+compressed air at high pressure into either linear or rotary motion.
+See lecture 4 (Actuation) @ 07:55
+
+QUESTION 11:
+Which type of actuators tend to be compact, lightweight, economical, and with high power
+density?
+a. Thermal or Magnetic Actuators
+b. Hydraulic Actuators
+c. Both (a) and (b)
+d. None of these
+Correct Answer: a. Thermal or Magnetic Actuators
+Detailed Solution: Thermal or Magnetic Actuators can be actuated by applying thermal or
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+magnetic energy. They tend to be compact, lightweight, economical, and with high power
+density.
+See lecture 4 (Actuation) @ 11:46
+
+QUESTION 12:
+Polymer based actuators designed to handle fragile objects like fruit harvesting in agriculture or
+manipulating internal organs in biomedicine are called?
+a. Pneumatic Actuators
+b. Soft Actuators
+c. Software Actuators
+d. Hardware Actuators
+Correct Answer: b. Soft Actuators
+Detailed Solution: Soft Actuators are polymer-based actuators designed to handle fragile
+objects like fruit harvesting in agriculture or manipulating internal organs in biomedicine.
+See lecture 4 (Actuation) @ 14:55
+
+QUESTION 13:
+Full form of SMP is _______________________?
+a. Soft Memory Polymer
+b. Shape Memory Polymer
+c. Software Memory Polymer
+d. None of these
+Correct Answer: b. Shape Memory Polymer
+Detailed Solution: Shape Memory Polymer (SMP) actuators function similar to our
+muscles, even providing a response to a range of stimuli such as light, electrical, magnetic,
+heat, pH, and moisture changes.
+See lecture 4 (Actuation) @ 15:16
+QUESTION 14:
+Duty Cycling of the sensors is managed by which component of IoT?
+a.
+b.
+c.
+d.
+
+Application
+Real-Time Kernel
+Radios
+Power Management Unit
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Correct Answer: d. Power Management Unit
+Detailed Solution: Power Management Unit does things like duty cycling of sensors that is
+how much time they are to be powered on and how much time they will be off.
+See lecture 5 (Basics of IoT Networking – Part - I) @ 13:39
+
+QUESTION 15:
+Which of the following are challenges of IoT
+a. Security
+b. Complexity Management
+c. Modeling and Analysis
+d. All of these
+Correct Answer: d. All of these
+Detailed Solution: IoT Challenges are –
+ Security
+ Modeling and Analysis
+ Complexity Management
+ Scalability
+ Energy Efficiency
+ Interfacing
+ Interoperability
+ Data Storage
+ Data Analytics
+See lecture 5 (Basics of IoT Networking – Part - I) @ 24:40
+
+************END***********
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Introduction to
+Internet of Things
+Assignment-Week 2
+TYPE OF QUESTION: MCQ/MSQ
+Number of questions: 15
+
+Total marks: 15 X 1= 15
+
+QUESTION 1:
+Which of the following is based on the publish-subscribe model?
+a.
+b.
+c.
+d.
+
+MQTT
+HTTP
+HTTPS
+All of these
+
+Correct Answer: a. MQTT
+Detailed Solution: Message Queue Telemetry Transport (MQTT) is a publish-subscribe
+based lightweight messaging protocol for use in conjunction with TCP/IP protocol.
+See lecture 6 (Basics of IoT Networking – Part II) @ 01:51
+QUESTION 2:
+In MQTT, a topic to which a client is subscribed is updated in the form of messages and
+distributed by the ____________________?
+a. Publishers
+b. Message Broker
+c. Subscribers
+d. All of these
+Correct Answer: b. Message Broker
+Detailed Solution: A topic to which a client is subscribed is updated in the form of
+messages and distributed by the message broker.
+See lecture 6 (Basics of IoT Networking – Part II) @ 03:33
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 3:
+Which of the following is used when more than one level needs to be subscribed, such as
+the entire sub-tree, i.e., a multilevel wildcard?
+
+a.
+b.
+c.
+d.
+
++
+#
+\
+None of these
+
+Correct Answer: b. #
+Detailed Solution: If more than one level needs to be subscribed, such as the entire subtree, there is also a multilevel wildcard (#). It allows to subscribe to all underlying hierarchy
+levels. For example house/# is subscribing to all topics beginning with house.
+See lecture 6 (Basics of IoT Networking – Part II) @ 12:40
+QUESTION 4:
+The CoAP protocol is designed for -.
+a.
+b.
+c.
+d.
+
+Heavy Web Application
+Publish-Subscribe Applications
+Machine-to-Machine (M2M) applications
+Both (a) and (b)
+
+Correct Answer: c. Machine-to-Machine (M2M) applications
+Detailed Solution: CoAP – Constrained Application Protocol. It is a web transfer protocol
+for use with constrained nodes and networks. Designed for Machine-to-Machine (M2M)
+applications such as smart energy and building automation. Based on Request-Response
+model between end-points.
+See lecture 7 (Basics of IoT Networking – Part III) @ 00:35
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 5:
+Statement I – The messaging sub-layer of CoAP, is responsible for reliability and
+duplication of messages.
+Statement II – The request/response sub-layer is responsible for communication.
+Which of the above statement/statements is/are correct?
+a.
+b.
+c.
+d.
+
+Only Statement I
+Only Statement II
+Both Statement I and II
+Statement I Correct but Statement II Incorrect
+
+Correct Answer: c. Both Statement I and II
+Detailed Solution: The messaging sub-layer of CoAP, is responsible for reliability and
+duplication of messages while the request/response sub-layer is responsible for
+communication.
+See lecture 7 (Basics of IoT Networking – Part III) @ 04:19
+QUESTION 6:
+Which of the following is a messaging mode in CoAP?
+a.
+b.
+c.
+d.
+
+Append
+Substitute
+Attempt
+Separate
+
+Correct Answer: d. Separate
+Detailed Solution: CoAP has four messaging modes
+ Confirmable
+ Non-Confirmable
+ Piggyback
+ Separate
+See lecture 7 (Basics of IoT Networking – Part III) @ 05:29
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 7:
+Which of the following provides for the discovery of services residing locally or across a
+network?
+a. Internet
+b. SMQTT
+c. XMPP
+d. CoAP
+Correct Answer: c. XMPP
+Detailed Solution: XMPP provides for the discovery of services residing locally or across a
+network, and the availability information of these services.
+See lecture 7 (Basics of IoT Networking – Part III) @ 12:03
+QUESTION 8:
+AMQP is a protocol of which layer?
+a.
+b.
+c.
+d.
+
+Transport Layer
+Application Layer
+Network Layer
+Session Layer
+
+Correct Answer: b. Application Layer
+Detailed Solution: AMQP is an Application Layer protocol.
+See lecture 8 (Basics of IoT Networking – Part IV) @ 01:41
+QUESTION 9:
+Which of the following is NOT a feature of the AMQP protocol?
+a.
+b.
+c.
+d.
+
+Closed Standard
+Security
+Reliability
+Routing
+
+Correct Answer: a. Closed Standard
+Detailed Solution: Features of AMQP are –
+ Security
+ Reliability
+ Interoperability
+ Routing
+ Queuing
+ Open Standard
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+See lecture 8 (Basics of IoT Networking – Part IV) @ 04:54
+
+QUESTION 10:
+There are a total of _________ number of AMQP frame types are defined that are used to
+initiate, control, and tear down the transfer of messages between two peers.
+a.
+b.
+c.
+d.
+
+Seven
+Eight
+Nine
+None of these
+
+Correct Answer: c. Nine
+Detailed Solution: Nine AMQP frame types are defined that are used to initiate, control,
+and tear down the transfer of messages between two peers.
+See lecture 8 (Basics of IoT Networking – Part IV) @ 06:34
+
+QUESTION 11:
+The function/functions of the Queue component of the AMQP protocol is/are a.
+b.
+c.
+d.
+
+Receive messages and route them to queues
+Separate queues for separate business process
+Consumer receive messages from queues
+Both (b) and (c)
+
+Correct Answer: d. Both (b) and (c)
+Detailed Solution: The functions of the Queue components are to –
+ Separate queues for separate business process
+ Consumer receive messages from queues
+See lecture 8 (Basics of IoT Networking – Part IV) @ 08:05
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 12:
+Which of the following statements is/are false?
+Statement – I: IEEE 802.15.4 is a well-known standard for low data-rate Wireless
+Personal Area Network (WPAN).
+Statement – II: IEEE 802.15.4 standard operates in the ISM band.
+a. Statement - II
+b. Statement - I
+c. Both Statement I and II
+d. None of these
+Correct Answer: d. None of these
+Detailed Solution: IEEE 802.15.4 is a well known standard for low data-rate Wireless
+Personal Area Network (WPAN). It operates in the ISM band.
+See lecture 9 (Connectivity Technologies – Part-I) @ 03:00
+
+QUESTION 13:
+The IEEE 802.15.4 establishes functionalities in which layers?
+a.
+b.
+c.
+d.
+
+Application and Session Layers
+Transport and Data Link Layers
+Network and Session Layers
+Physical and Data Link Layers
+
+Correct Answer: d. Physical and Data Link Layers
+
+Detailed Solution: The IEEE 802.15.4 is useful for establishing functionalities in the
+Physical and Data Link Layers.
+See lecture 9 (Connectivity Technologies – Part-I) @ 17:27
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 14:
+Which is not a purpose of the ZigBee Device Object (ZDO)?
+a.
+b.
+c.
+d.
+
+Device Management
+Interfacing and Control Services
+Security
+Policies
+
+Correct Answer: b. Interfacing and Control Services
+Detailed Solution: The functions of the ZigBee Device Object (ZDO) are –
+ Device Management
+ Security
+ Policies
+See lecture 9 (Connectivity Technologies – Part-I) @ 18:06
+
+QUESTION 15:
+State whether the following statement is True or False.
+Statement: Similar to traditional barcodes and QR codes, RFID tag data cannot be read
+outside the line-of-sight.
+a. False
+b. True
+Correct Answer: a. False
+Detailed Solution: As compared to traditional barcodes and QR codes, RFID tag data can
+be read outside the line-of-sight.
+See lecture 10 (Connectivity Technologies – Part-II) @ 17:33
+
+************END***********
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Introduction to
+Internet of Things
+Assignment-Week 3
+TYPE OF QUESTION: MCQ/MSQ
+Number of questions: 15
+
+Total marks: 15 X 1= 15
+
+QUESTION 1:
+Choose the correct option based on the following two statements on the HART Physical
+Layer.
+Statement-I: It is derived from the IEEE 802.15.4 protocol.
+Statement-II: It operated only in the 2.4 GHz ISM band.
+a.
+b.
+c.
+d.
+
+Statement-I True and Statement-II False
+Statement-I False and Statement-II True
+Both Statements I and II are False
+Both Statements I and II are True
+
+Correct Answer: d. Both Statements I and II are True
+Detailed Solution: HART Physical Layer is derived from the IEEE 802.15.4 protocol. It
+operated in the 2.4 GHz ISM band.
+See lecture 11 (Connectivity Technologies-III) @ 05:44
+
+QUESTION 2:
+Which of the following characteristic of HART Data Link Layer helps to increase
+reliability and security?
+a.
+b.
+c.
+d.
+
+Channel Hopping and Channel Blacklisting
+Channel Crunching and Jamming
+Scattering
+All of these
+
+Correct Answer: a. Channel Hopping and Channel Blacklisting
+Detailed Solution: HART Data Link Layers incorporates channel hopping and channel
+blacklisting to increase reliability and security.
+See lecture 11 (Connectivity Technologies-III) @ 06:23
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 3:
+State True or False
+Statement: Channel blacklisting in HART identifies channels consistently affected by
+interference and removes them from use.
+a. True
+b. False
+Correct Answer: a. True
+Detailed Solution: Channel blacklisting in HART identifies channels consistently affected
+by interference and removes them from use.
+See lecture 11 (Connectivity Technologies-III) @ 08:27
+QUESTION 4:
+At the MAC layer –
+Statement-I: WirelessHART utilizes Time Division Multiple Access (TDMA).
+Statement-II: ZigBee applies Carrier Sense Multiple Access with Collision Detection
+(CSMA/CD).
+a.
+b.
+c.
+d.
+
+Statement-I True and Statement-II False
+Statement-I False and Statement-II True
+Both Statements I and II are False
+Both Statements I and II are True
+
+Correct Answer: d. Both Statements I and II are True.
+Detailed Solution: At the MAC layer, WirelessHART utilizes Time Division Multiple
+Access (TDMA), allotting individual time slots for each transmission. ZigBee applies
+Carrier Sense Multiple Access with Collision Detection (CSMA/CD).
+See lecture 11 (Connectivity Technologies-III) @ 15:07
+QUESTION 5:
+NFC works on the principal of
+a.
+b.
+c.
+d.
+
+Pressure
+Magnetic Induction
+Both (a) and (b)
+None of these
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Correct Answer: b. Magnetic Induction
+Detailed Solution: NFC works on the principle of magnetic induction.
+See lecture 11 (Connectivity Technologies-III) @ 20:02
+QUESTION 6:
+Bluetooth technology is based on Ad-hoc technology also known as?
+a.
+b.
+c.
+d.
+
+Ad-hoc Piconets
+Ad-hoc Micronets
+Ad-hoc Nanonets
+None of these
+
+Correct Answer: a. Ad-hoc Piconets
+Detailed Solution: Bluetooth technology is based on Ad-hoc technology also known as Adhoc Piconets.
+See lecture 12 (Connectivity Technologies-IV) @ 04:05
+QUESTION 7:
+Class 2 Bluetooth radios have a range of about?
+a.
+b.
+c.
+d.
+
+1m
+2m-5m
+10 m
+None of these
+
+Correct Answer: c. 10 m
+Detailed Solution: Class 2 radios are most commonly found in mobile devices and have a
+range of 10 meters.
+See lecture 12 (Connectivity Technologies-IV) @ 05:16
+QUESTION 8:
+Which of the following is NOT a phase in Bluetooth connection establishment?
+a.
+b.
+c.
+d.
+
+Inquiry
+Booking
+Paging
+Connection
+
+Correct Answer: b. Booking
+Detailed Solution: The three phases of Bluetooth connection establishment are –
+ Inquiry
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+
+
+
+Paging
+Connection
+
+See lecture 12 (Connectivity Technologies-IV) @ 05:33
+QUESTION 9:
+Zwave can support ___________ number of nodes in a network?
+a.
+b.
+c.
+d.
+
+232
+233
+234
+235
+
+Correct Answer: a. 232
+Detailed Solution: In Zwave, mesh network topology is the main mode of operation, and
+can support 232 nodes in a network.
+See lecture 13 (Connectivity Technologies-V) @ 03:54
+QUESTION 10:
+Topologies allowed in ISA 100.11A are?
+a.
+b.
+c.
+d.
+
+Ring Only
+Mesh and Hybrid
+Mesh and Ring
+Mesh and Star/Tree
+
+Correct Answer: d. Mesh and Star/Tree
+Detailed Solution: The ISA 100.11A support the Mesh and Star/Tree topologies.
+See lecture 13 (Connectivity Technologies-V) @ 15:44
+
+QUESTION 11:
+An example of an Operating System (OS) that a sensor node can have is?
+a. MicronOS
+b. TinyOS
+c. Both (a) and (b)
+d. None of these
+Correct Answer: b. TinyOS
+Detailed Solution: Sensor nodes can have OS such as TinyOS.
+See lecture 14 (Sensor Networks-I) @ 12:06
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 12:
+Which of the following is NOT a constraint on sensor nodes?
+a.
+b.
+c.
+d.
+
+Must consume extremely low power
+Be non-autonomous
+Be adaptive to environment
+None of these
+
+Correct Answer: b. Be non-autonomous
+Detailed Solution: Constraints on sensor nodes –
+ Must consume extremely low power
+ Be autonomous
+ Be adaptive to the environment
+See lecture 14 (Sensor Networks-I) @ 14:36
+
+QUESTION 13:
+Nodes in WSNs that exhibit features of failed nodes but they can also send false routing
+messages which are a threat to the integrity of the network are called?
+a.
+b.
+c.
+d.
+
+Normal Nodes
+Badly Failed Nodes
+Failed Nodes
+Selfish Nodes
+
+Correct Answer: b. Badly Failed Nodes
+Detailed Solution: Nodes in WSNs that exhibit features of failed nodes but they can also
+send false routing messages which are a threat to the integrity of the network are called
+Badly Failed Nodes.
+See lecture 15 (Sensor Networks-II) @ 03:53
+QUESTION 14:
+Which of the following are the two popular schemes to re-establish the connectivity
+between dumb nodes with others?
+a.
+b.
+c.
+d.
+
+CoARD and CoRD
+CoRAD and CoARD
+CoRD and CoRAD
+None of these
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Correct Answer: c. CoRD and CoRAD
+Detailed Solution: CoRD and CoRAD are the two popular schemes to re-establish the
+connectivity between dumb nodes with others.
+See lecture 15 (Sensor Networks-II) @ 09:20
+
+QUESTION 15:
+Full form of WBAN is?
+a.
+b.
+c.
+d.
+
+Wireless Body Area Network
+Wirelessed Body Area Network
+Wireless Bodily Area Network
+None of these
+
+Correct Answer: a. Wireless Body Area Network
+Detailed Solution: Wireless Body Area Network (WBAN).
+See lecture 15 (Sensor Networks-II) @ 21:21
+
+************END***********
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Introduction to
+Internet of Things
+Assignment-Week 4
+TYPE OF QUESTION: MCQ/MSQ
+Number of questions: 15
+
+Total marks: 15 X 1= 15
+
+QUESTION 1:
+When an intruder enters into the agricultural field through the boundary (perimeter) of
+the field, a/an ___________ sensor can be used to detect the object and a/an
+_____________ sensor can be used to sense the distance at which the object is located.
+a.
+b.
+c.
+d.
+
+PIR, Ultrasonic
+Ultrasonic, PIR
+Humidity, PIR
+None of these
+
+Correct Answer: a. PIR, Ultrasonic
+Detailed Solution: When an intruder enters into the agricultural field through the boundary
+(perimeter) of the field, a PIR sensor can be used to detect the object and an Ultrasonic
+sensor can be used to sense the distance at which the object is located.
+See lecture 16 (Sensor Networks-III) @ 15:40
+
+QUESTION 2:
+____________ is defined as, all the nodes are connected in the network, so that sensed
+data can reach to sink node?
+a.
+b.
+c.
+d.
+
+Coverage
+Connectivity
+Both (a) and (b)
+None of these
+
+Correct Answer: b. Connectivity
+Detailed Solution: Connectivity is defined as, all the nodes are connected in the network,
+so that sensed data can reach to sink node.
+See lecture 17 (Sensor Networks-IV) @ 02:14
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 3:
+The objective of coverage in WSN is.
+a.
+b.
+c.
+d.
+
+To use a minimum number of sensors and maximize the network lifetime
+To use a maximum number of sensors and maximize the network lifetime
+To use a minimum number of sensors and minimize the network lifetime
+To use a maximum number of sensors and minimize the network lifetime
+
+Correct Answer: a. To use a minimum number of sensors and maximize the
+network lifetime
+Detailed Solution: The objective of coverage is to use a minimum number of sensors and
+maximize the network lifetime.
+See lecture 17 (Sensor Networks-IV) @ 08:48
+QUESTION 4:
+State True or False
+Statement-I: If transmission range ≤ 2* sensing range, coverage implies connectivity.
+a. Statement-I is True
+b. Statement-I is False
+Correct Answer: b. Statement-I is False
+Detailed Solution: If transmission range ≥ 2* sensing range, coverage implies connectivity.
+See lecture 17 (Sensor Networks-IV) @ 05:46
+QUESTION 5:
+A mobile entity that collects the data from sensor nodes goes to the sink, and delivers the
+collected data from different sensor nodes are called?
+a.
+b.
+c.
+d.
+
+Data Molecule
+Static Node
+Data Mules
+None of these
+
+Correct Answer: c. Data Mules
+Detailed Solution: A mobile entity that collects the data from sensor nodes goes to the sink,
+and delivers the collected data from different sensor nodes are called Data Mules.
+See lecture 18 (Sensor Networks-V) @ 07:11
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 6:
+Human-centric Sensing is possible because of?
+a.
+b.
+c.
+d.
+
+Smartphone and PDAs
+Miniaturization and Proliferation of devices
+Both (a) and (b)
+None of these
+
+Correct Answer: c. Both (a) and (b)
+Detailed Solution: Human-centric Sensing is possible because of Smartphone, PDAs,
+Miniaturization, and Proliferation of devices.
+See lecture 18 (Sensor Networks-V) @ 10:51
+QUESTION 7:
+Which of the following are the roles played by humans in Human-centric Sensing?
+a. Sensing Targets
+b. Sensor Operators
+c. Data Source
+d. All of these
+Correct Answer: d. All of these
+Detailed Solution: The three distinct roles (not necessarily mutually exclusive) played by
+humans are –
+ Sensing Targets
+ Sensor Operators
+ Data Source
+See lecture 18 (Sensor Networks-V) @ 12:35
+QUESTION 8:
+Which of the following is/are NOT goal of Participatory Sensing?
+a. To only collect data
+b. Not just collect data, but allow common people to access data and share knowledge
+c. To only access data
+d. Both (a) and (c)
+Correct Answer: d. Both (a) and (c)
+Detailed Solution: The goal of Participatory Sensing is not just collect data, but allow
+common people to access data and share knowledge.
+See lecture 18 (Sensor Networks-V) @ 13:00
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 9:
+The two popular network topologies in UAV networks are
+a.
+b.
+c.
+d.
+
+Ring
+Mesh and Star
+Bus
+All of these
+
+Correct Answer: b. Mesh and Star
+Detailed Solution: The two popular network topologies in UAV networks are Mesh and
+Star topologies.
+See lecture 19 (UAV Networks) @ 03:26
+QUESTION 10:
+Which of the following is NOT an issue in UAV networks?
+a.
+b.
+c.
+d.
+
+Slow change in network topology
+Malfunctioning of UAVs
+Intermittent link nature
+Relative position of UAV may change
+
+Correct Answer: a. Slow change in network topology
+Detailed Solution: Key issues in UAV networks are –
+ Frequently change in network topology
+ Relative position of UAV may change
+ Malfunctioning of UAV
+ Intermittent link nature
+See lecture 19 (UAV Networks) @ 05:23
+
+QUESTION 11:
+The scalability in single UAV system as compared to multi-UAV system is?
+a.
+b.
+c.
+d.
+
+Limited
+High
+Very High
+None of these
+
+Correct Answer: a. Limited
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Detailed Solution: The scalability in single UAV system as compared to multi-UAV
+system is limited.
+See lecture 19 (UAV Networks) @ 07:47
+
+QUESTION 12:
+Typical types of mesh networks in UAV networks are
+a. Solid Mesh and Hierarchical Mesh
+b. Plane Mesh and Solid Mesh
+c. Flat Mesh and Hierarchical Mesh
+d. None of these
+Correct Answer: c. Flat Mesh and Hierarchical Mesh
+Detailed Solution: Typical types of mesh networks in UAV networks are –
+
+
+Flat Mesh
+
+
+
+Hierarchical Mesh
+
+See lecture 19 (UAV Networks) @ 12:48
+
+QUESTION 13:
+State True or False
+Statement-I: SCADA is designed for isolated systems using proprietary solutions,
+whereas M2M is designed for cross-platform integration.
+a. False
+b. True
+Correct Answer: b. True
+Detailed Solution: SCADA is designed for isolated systems using proprietary solutions,
+whereas M2M is designed for cross-platform integration.
+See lecture 20 (Machine to Machine Communication) @ 5:25
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 14:
+Which of the following is NOT a feature of M2M?
+a.
+b.
+c.
+d.
+
+Large number of nodes or devices
+High cost
+Energy efficient
+Small traffic per machine/device
+
+Correct Answer: b. High cost
+Detailed Solution: Features of M2M –
+ Large number of nodes or devices
+ Low cost
+ Energy efficient
+ Small traffic per machine/device
+See lecture 20 (Machine to Machine Communication) @ 9:24
+
+QUESTION 15:
+Which of the following is NOT an M2M node type?
+a.
+b.
+c.
+d.
+
+Low End Node
+High End Node
+Out End Node
+None of these
+
+Correct Answer: c. Out End Node
+Detailed Solution: The three node types of M2M are –
+ Low end node
+ Mid end node
+ High end node
+See lecture 20 (Machine to Machine Communication) @ 10:35
+
+************END***********
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Introduction to
+Internet of Things
+Assignment-Week 5
+TYPE OF QUESTION: MCQ/MSQ
+Number of questions: 15
+
+Total marks: 15 X 1= 15
+
+QUESTION 1:
+Suppose that an IoT sensor node A works on wireless WiFi and senses pressure as a physical parameter in
+integer number, and another IoT node B operates on IEEE 802.15.4 Zigbee and senses humidity as a
+floating point (decimal) number. In this context, which among the following correctly describes the issues
+with the deployment.
+a. Heterogeneity
+b. Interoperability
+c. Both heterogeneity and interoperability
+d. Neither heterogeneity and interoperability
+
+Correct Answer: c. Both heterogeneity and interoperability
+Detailed Solution: Since the two sensors sense different parameters in different formats and communicates
+with different protocols, this is an issue of both heterogeneity and interoperability. Refer lecture 21 on
+introduction to interoperability
+
+QUESTION 2:
+RESTful web services are utilized for _________.
+a. Syntactic interoperability for device interaction
+b. Semantic interoperability for device interaction
+c. Both (a) and (b)
+d. None of the above
+Correct Answer: a. Syntactic interoperability for device interaction
+Detailed Solution: Service-oriented computing-based architecture, RESTful web services, open
+standard protocols (IEEE 802.15.4), and closed protocols (Z-wave) are the popular approaches
+utilized towards syntactic interoperability for device interaction.
+See lecture 21 @ 17:40
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 3:
+Which UMB interoperability component is responsible for converting physical devices into virtually
+abstracted ones?
+a.
+b.
+c.
+d.
+
+UMB Adaptor
+UMB Core
+UMB Hypervisor
+UMB Abstractor
+
+Correct Answer: a. UMB Adaptor
+Detailed Solution: UMB-A is responsible for converting physical devices into virtually abstracted ones.
+(Please refer Lecture 21@27:16)
+
+QUESTION 4:
+User interoperability is the interoperability problem between an user and ____________.
+a. Another user
+b. Device
+c. Both user and device
+d. None of these
+
+Correct Answer: b. Device
+Detailed Solution: In user interoperability, the issue of interoperability is between the user and device.
+Refer lecture 21, ppt No. 7, types of interoperability
+
+QUESTION 5:
+Which of the following is an open, global, multi-sector standard for efficient, accurate,
+flexible classification of products and services?
+a. eCl@ss
+b. UNSPSC
+c. EPC
+d. Both UNSPSC and EPC
+Correct Answer: b. UNSPSC
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Detailed Solution: UNSPC stands for United Nations Standard Products and Services Code. It is
+one of the device classification solutions. eCl@ss is the standard utilized for classification and clear
+description of cross-industry products. Electronic Product Code (EPC) is used to generate unique
+addresses for device identification. See lecture 21 @ 16:30
+
+QUESTION 6:
+What does the routing component in UMB-C use for routing the metadata messages?
+a. Flow Table
+b. Routing Table
+c. Middleware Routing Table
+d. Middleware Flow Table
+Correct Answer: c. Middleware Routing Table
+Detailed Solution: UMB-C uses Middleware Routing Table for routing metadata messages among the
+devices. (Please refer Lecture 21@28:16)
+
+QUESTION 7:
+Which among the following are components of an Arduino UNO Board?
+a.
+b.
+c.
+d.
+
+LED Power Indicator
+Digital I/O Pins
+Analog IN Pins
+All of these
+
+Correct Answer: d. All of these
+Detailed Solution: An Arduino UNO board contains several components, which also contain the
+ones listed above. Refer lecture 22 on Arduino Board details.
+QUESTION 8:
+The tool used to select a particular COM port for connecting Arduino to a serial connector is
+called a sketch.
+a. True
+b. False
+Correct Answer: b. False
+Detailed Solution: Sketch in Arduino is the program that is coded in Arduino IDE. Refer lecture 22,
+ppt No. 9
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 9:
+Which kind of conflict occur when different processing logic are applied to same IoT
+networked devices or applications?
+a.
+b.
+c.
+d.
+
+Semantic conflict.
+Syntactic conflict.
+System conflict.
+Device conflict.
+
+Correct Answer: a. Semantic conflict
+Detailed Solution: Semantic conflict occurs when different processing logics are applied to same
+IoT networked devices or applications. See lecture 21@5:20
+
+QUESTION 10:
+Which of the following is TRUE for the sketch command given below?
+delay(3000);
+a.
+b.
+c.
+d.
+
+Provides a delay of 3000 seconds
+Provides a delay of 3 seconds
+Provides a delay of 3000 nano seconds
+Provides a delay of 3000 simulation time
+
+Correct Answer: b. Provides a delay of 3 second
+Detailed Solution: As per the basics of Arduino programming.
+QUESTION 11:
+How many types of loops will you find in Arduino Programming?
+a. 1
+b. 2
+c. 3
+d. 4
+
+Correct Answer: c. 3
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Detailed Solution: Like C programming, Arduino sketches also have 3 types of loops, for, while and dowhile loops.
+
+QUESTION 12:
+How many digital I/O pins are there in Arduino Uno.
+a. 14
+b. 54
+c. 11
+d. 16
+Correct Answer: a. 14
+Detailed Solution: From the basics of Arduino Uno.Refer to the book: S. Misra,
+A. Mukherjee, and A. Roy, 2020. Introduction to IoT. Cambridge University Press.
+
+QUESTION 13:
+Servo motors that you connect to Arduino, are an example of
+a. Sensors
+b. Actuators
+c. Gateways
+d. Routers
+Correct Answer: b. Actuators
+Detailed Solution: Servo motors, along with other different types of motors are examples of Actuators in
+IoT network. Refer lecture 25 on Integration of Arduino with Sensors and Actuators.
+
+QUESTION 14:
+Which of the following functions exist by default in Arduino IDE?
+a.
+b.
+c.
+d.
+
+main()
+loop() and main()
+setup() and loop()
+setup() and main()
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Correct Answer: c. setup() and loop()
+Detailed Solution: By default Arduino IDE consists of 2 functions - setup() and loop(). See lecture
+22 @ 10:40
+
+QUESTION 15:
+Choose the right option for if/conditional operator.
+a.
+b.
+c.
+d.
+
+Val = (condition)?(Statement 1):(Statement 2)
+Val = (condition)?(Statement 2):(Statement 1)
+Val = (condition):(Statement 1)?(Statement 2)
+Val = (condition):(Statement 2)?(Statement 1)
+
+Correct Answer: a. Val = (condition)?(Statement 1):(Statement 2)
+Detailed Solution: Conditional operator may also be written as Val = (condition)?(Statement 1):(Statement
+2). (Please refer Lecture 23@2:01)
+
+************END***********
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+Introduction to
+Internet of Things
+Assignment-Week 6
+TYPE OF QUESTION: MCQ/MSQ
+Number of questions: 15
+
+Total marks: 15 X 1= 15
+
+QUESTION 1:
+Python’s installation comes with an integrated development environment for programming.
+a. True
+b. False
+Correct Answer: a. True
+Detailed Solution: As per Python program. (Please refer to lecture INTRODUCTION TO
+PYTHON PROGRAMMING- I @ 3:40)
+
+QUESTION 2:
+Fill in the blanks. Python IDE is available for installation into PC with __________.
+a.
+b.
+c.
+d.
+
+Windows
+Linux
+Mac
+All of these
+
+Correct Answer: d. All of these
+Detailed Solution: As per Python program. (Please refer to lecture INTRODUCTION TO
+PYTHON PROGRAMMING- I @ 4:50)
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 3:
+How many data type/s are available in Python?
+a. 1
+b. 2
+c. 5
+d. None of these
+Correct Answer: c. 5
+Detailed Solution: As per Python program (Please refer to lecture INTRODUCTION TO
+RASPBERRY PI-I @ 9:00).
+
+QUESTION 4:
+What is the output of the following piece of Python code?
+ls= {1: "abc", "key": "2", "year": 2023}
+print(ls["key"]
+a. abc
+b. 2
+c. 2023
+
+d. “abc"
+Correct Answer: b. 2
+Detailed Solution: As per the basics of Python programming. (Please refer to lecture
+INTRODUCTION TO PYTHON PROGRAMMING- I @ 15:23)
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 5:
+The variable that is declared inside the function in Python is called a Global variable.
+a. True
+b. False
+Correct Answer: b. False
+Detailed Solution: As per the basics of Python programming. (Please refer to lecture
+INTRODUCTION TO PYTHON PROGRAMMING- I @ 25:58)
+
+QUESTION 6:
+Which of the following is used to read a text file in Python?
+a.
+b.
+c.
+d.
+
+file = open('data.txt ', 'r ')
+file = open_text('data.txt ', 'r ')
+file = read_text('data.txt ', 'r ')
+file = read('data.txt ', 'r ')
+
+Correct Answer: a. file = open('data.txt ', 'r ')
+Detailed Solution: As per the basics of Python programming. (Please refer to lecture
+INTRODUCTION TO PYTHON PROGRAMMING- II @ )
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 7:
+Which of the following libraries in Python is used for processing images.
+a.
+b.
+c.
+d.
+
+Pillow
+Numpy
+Panda
+None of these
+
+Correct Answer: a. Pillow
+Detailed Solution: In python programming PIL, OpenCV, Pillow are common image
+processing libraries. (Please refer to lecture INTRODUCTION TO PYTHON
+PROGRAMMING- II @ 18:08 )
+
+QUESTION 8:
+In python, images cannot be converted to greyscale.
+a. True
+b. False
+Correct Answer: b. False
+Detailed Solution: As per the basics of Python programming (Please refer to lecture
+INTRODUCTION TO PYTHON PROGRAMMING- II @19:44).
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 9:
+Which of the following shortcut exits the nano editor?
+a. Ctrl + E
+b. Ctrl + O
+c. Ctrl+V
+d. None of these
+Correct Answer: d. None of these
+Detailed Solution: Ctrl + O writes the code to a file. Ctrl + X exits the nano editor.
+See lecture 29
+
+QUESTION 10:
+Which of the following is an unordered data type in Python?
+a. List
+b. Dictionary
+c. Both List and Dictionary
+d. Tuple
+Correct Answer: b. Dictionary
+Detailed Solution: As per basics of Python programming.
+See lecture 26 @ 15:36
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 11:
+Sensors can be analog or digital. Is the statement true?
+a. Yes
+b. No
+Correct Answer: a. Yes
+Detailed Solution: Sensors can be analog or digital. See lecture 30 @ 03:27
+
+QUESTION 12:
+Is relay a type of mechanical switch?
+a. No
+b. Yes
+Correct Answer: b. Yes
+Detailed Solution: Relay is a type of mechanical/electromechanical switch. See lecture
+30 @ 05:53
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 13:
+Which of the following converts energy to motion?
+a.
+b.
+c.
+d.
+
+Actuator
+Raspberry Pi
+Sensor
+None of these
+
+Correct Answer: a. Actuator
+Detailed Solution: Actuator converts energy to motion.
+See lecture 30 @ 03:37
+
+QUESTION 14:
+Python does not follow strict indentation.
+a. True
+b. False
+Correct Answer: b. False
+Detailed Solution: As per the basics of Python programming. (Please refer to lecture
+INTRODUCTION TO PYTHON PROGRAMMING- I @ 7:47)
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 15:
+Functions cannot be reassigned to the variables in Python.
+a. True
+b. False
+Correct Answer: b. False
+Detailed Solution: As per the basics of Python programming. (Please refer to lecture
+INTRODUCTION TO PYTHON PROGRAMMING- I @ 24:54)
+
+************END***********
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Introduction to
+Internet of Things
+Assignment-Week 7
+TYPE OF QUESTION: MCQ/MSQ
+Number of questions: 15
+
+Total marks: 15 X 1= 15
+
+QUESTION 1:
+The switches in a non-Software Defined Network (SDN) environment do not have a global view of the
+network.
+a. True
+b. False
+Correct Answer: a. True
+Detailed Solution: Switches in non-SDN do not have global view of the network. (Please refer Lecture
+33@6:53)
+
+QUESTION 2:
+Which of the following is not a function of the Application Plane in Software Defined Network
+architecture?
+a. Business Logic implementation
+b. Security
+c. Traffic Engineering
+d. Forwarding
+Correct Answer: d. Forwarding
+Detailed Solution: The Data Plane in SDN is responsible for data forwarding. (Please refer Lecture
+33@12:25)
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 3:
+In Socket programming, the parameter AF_INET stands for ___________.
+a. Unix protocols
+b. Internet Protocol (IP)
+c. File sharing
+d. Time slicing
+Correct Answer: b. Internet Protocol (IP)
+Detailed Solution The AF_INET specifies the rules and standards of the Internet protocol, hence the
+socket acts as an IP socket. (Please refer Lecture 31@14:13)
+
+QUESTION 4:
+During remote server access by a Raspberry Pi, where the Raspberry Pi acts as a client, the client needs
+the following?
+a. Only IP address of server
+b. Only port number
+c. Both server IP address and port number
+d. Client’s IP address
+
+Correct Answer: c. Both server IP address and port number
+Detailed Solution: A client can communicate with a server only if both IP address and port numbers are
+known. (Please refer Lecture 31@14:13)
+
+QUESTION 5:
+Fill in the blank:
+Controllers in SDN receive requests from the _______________.
+a. Repeaters
+b. Gateways
+c. Switches
+d. Routers
+Correct Answer: c. Switches
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Detailed Solution: SDN controllers should be able to handle all requests from the SDN switches (Please
+refer Lecture 34@2:41)
+
+QUESTION 6:
+During remote server access using socket programming what is the utility of the
+<socket_name>.listen() function?
+a. To create a new socket
+b. To bind the socket to connection
+c. To wait for clients to connect
+d. To close the connection
+Correct Answer: c. To wait for clients to connect
+Detailed Solution: listen() function makes the server wait for incoming client connections (Refer
+Lecture 31 ppt no 13)
+QUESTION 7:
+With respect to client-server model of socket programming, in which of the following does the
+function <socket_name>.bind() reside?
+a.
+b.
+c.
+d.
+
+Client
+Server
+Both client and server
+None of client and server
+
+Correct Answer: b. Server
+Detailed Solution: The bind() function binds the socket name to the socket connection at the server
+side (Refer lecture 31 on socket programming)
+QUESTION 8:
+Which among the following are valid data processing activities
+a.
+b.
+c.
+d.
+
+Data Splitting
+Data filtering
+Data plotting
+All of the given
+
+Correct Answer: d. All of the given
+Detailed Solution: As per the basics of Python programming (Please refer to lecture
+INTRODUCTION TO PYTHON PROGRAMMING- II @19:44).
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 9:
+Which among the following is the correct direction for PACKET_IN type messages in SDN?
+a. From controller to switch
+b. From switch to controller
+c. Between two switches
+d. Between two controllers
+
+Correct Answer: b. From switch to controller
+Detailed Solution: PACKET_IN messages are sent from switches to the controller upon receipt of
+new unknown packets. Refer lecture 33, ppt no 20.
+
+QUESTION 10:
+Suppose a particular flow-rule has a soft time-out of 5s and a hard time-out of 3s. Is this
+association correct?
+
+a. Yes
+b. No
+
+Correct Answer: b. No
+Detailed Solution: Hard time-outs of flow rules are always greater than soft time-outs, not the other
+way round. Refer lecture 33, OpenFlow Protocol III
+
+QUESTION 11:
+In SDN Backup Controllers are required for which among the following?
+
+a. To act as backup of the main controller all the time
+b. To act as backup when the main controller fails
+c. To replace the main controller all together
+d. None of the stated.
+
+Correct Answer: b. To act as backup when the main controller fails
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Detailed Solution: Backup controllers acts as backup when the main controller is down Refer lecture
+34.
+
+QUESTION 12:
+Which of the following is true?
+a. Traditional Network: Routing Table, Software Defined Network: Routing Table
+b. Traditional Network: Flow Table, Software Defined Network: Routing Table
+c. Traditional Network: Routing Table, Software Defined Network: Flow Table
+d. Traditional Network: Flow Table, Software Defined Network: Flow Table
+Correct Answer: c. Traditional Network: Routing Table, Software Defined Network: Flow Table
+Detailed Solution: All switches in traditional network have routing tables and those in Software Defined
+Network have flow tables (Please refer Lecture 33@17:15)
+
+QUESTION 13:
+What are the benefits of using SDN over IoT?
+a. Management of device heterogeneity
+b. Management of end-device mobility and dynamic flow rules
+c. Software control of end-devices, i.e sensors and actuators
+d. All of the given
+Correct Answer: d. All of the given
+Detailed Solution: SDN over IoT can be used to solve a plethora of issues and problems in a dynamic and
+efficient manner. Refer lecture 35, SDN over IoT
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 14:
+
+Sensor OpenFlow, Soft-WSN and SDN-WISE are examples of ____________.
+a. Traditional routing protocols.
+b. Various SDN protocols for wired LANs
+c. Various implementations of the concept of Software Defined IoT
+d. Traditional IoT protocol examples.
+Correct Answer: c. Various implementations of the concept of Software Defined IoT
+Detailed Solution: The given names are all examples of various implementations of different concepts of
+Software Defined IoT by various research groups across the world. (Please refer Lecture 35@8:46
+onwards)
+
+QUESTION 15:
+Consider the following python script using the split() function, what will be the correct print output (SEE
+the options VERY carefully including the quotation marks)
+dat = 'Apple,Guava#Banana'
+var = dat.split(‘#’)
+print(var)
+a. ['Apple','Guava','Banana']
+b. ['Apple','Guava']
+c. ['Guava','Banana']
+d. ['Apple,Guava','Banana']
+Correct Answer: d. ['Apple,Guava','Banana']
+Detailed Solution: The split(‘#’) method splits the string into two parts with respect to the ‘#’ character.
+(Please refer Lecture 32@8:02)
+
+************END***********
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Introduction to
+Internet of Things
+Assignment-Week 8
+TYPE OF QUESTION: MCQ/MSQ
+Number of questions: 15
+
+Total marks: 15 X 1= 15
+
+QUESTION 1:
+Which among the following are core challenges of traditional mobile networks?
+a. Scalability
+b. Flexibility
+c. Manageability
+d. All of the given
+
+Correct Answer: d. All of the given
+Detailed Solution: Traditional mobile networks suffer from a lot of problems, few of which are as given in
+the options. Refer lecture 36, Traditional (Wireless) Mobile Network
+
+QUESTION 2:
+Network virtualization enables ______________ of physical resources
+a. Movement
+b. Abstraction
+c. Removal
+d. Creation
+Correct Answer: b. Abstraction
+Detailed Solution: Abstraction of physical resources from network services is one of the core functionality
+of virtualization. Refer lecture 36, ppt No. 5
+
+QUESTION 3:
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+In comparison to Software-Defined Networks, traditional networks are cost expensive with respect to which
+of the following?
+a. Both capex and opex
+b. Capex but not opex
+c. Opex but not capex
+d. Neither capex nor opex
+Correct Answer: a. Both capex and opex.
+Detailed Answer: Traditional networks are cost expensive with respect to both capex and opex in
+comparison to SDN. (Please refer Lecture 36@2:46)
+
+QUESTION 4:
+General OpenFlow supports both wireless and wired connections.
+a. True
+b. False
+Correct Answer: b. False
+Detailed Answer: A modified OpenFlow is necessary for supporting wireless connections. (Please refer
+Lecture 36@8:18)
+
+QUESTION 5:
+With respect to Software Defined Data Centre Networking (SD-DCN), ____________ can use wild cards
+and _________________ uses exact match rules.
+a. Mice flows, Elephant flows
+b. Elephant flows, Mice flows
+c. Mice flows, traditional flows
+d. Traditional flows, Elephant flows
+Correct Answer: a. Mice flows, Elephant flows
+Detailed Solution: Refer to ppt No. 19 of lecture 36 on Data Centre Networking
+
+QUESTION 6:
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+In cloud computing model, which among the following are characteristics of computing
+resources?
+a.
+b.
+c.
+d.
+
+On-demand
+Shared
+Configurable
+All of these
+
+Correct Answer: d. All of these
+Detailed Solution: “Cloud computing is a model for enabling convenient, on-demand network
+access to a shared pool of configurable computing resources (e.g., network infrastructures, servers,
+storage, applications, etc.)” – NIST. Refer Lecture 37, Introduction to Cloud Computing.
+QUESTION 7:
+Iaas, PaaS and SaaS are examples of what type of cloud models?
+a.
+b.
+c.
+d.
+
+Cloud deployment model
+Cloud service model
+Cloud access model
+Cloud virtualization model
+
+Correct Answer: b. Cloud service model
+Detailed Solution: Iaas, PaaS and SaaS are three major types of cloud service models. Refer lecture
+37, Introduction to Cloud Computing
+
+QUESTION 8:
+An organization A wants to deploy a cloud infrastructure, whereby it wants to push majority of
+the data to a cloud whose servers can be situated anywhere within the globe, but it wants certain
+private data to be pushed only to cloud servers that are present on-premise and are accessible by
+only authenticated members of the organization. In this context which among the following
+deployment model should be used?
+a.
+b.
+c.
+d.
+
+Private Cloud
+Public Cloud
+Hybrid Cloud
+Any of these
+
+Correct Answer: c. Hybrid Cloud
+Detailed Solution: Hybrid cloud deployment model supports both the features of public and private
+cloud. Refer lecture 37, ppt No. 18.
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 9:
+Which of the following type of client requires constant communication/connection with the cloud server?
+a.
+b.
+c.
+d.
+
+Thin client
+Thick client
+Both thin and thick clients
+None of these
+
+Correct Answer: a. Thin client
+Detailed Answer: A thin client is a network computer without a hard disk drive and high configurations.
+They act as simple terminals and require constant communication with the servers. (Please refer Lecture
+37@20:00)
+
+QUESTION 10:
+Fill in the blank: Typically, cloud computing have _____ components?
+a. 4
+b. 5
+c. 6
+d. 7
+Correct Answer: c. 6
+Detailed Answer: Cloud computing has 6 components. They are clients, services, applications, platforms,
+storage, and infrastructure. (Please refer Lecture 37@23:31)
+
+QUESTION 11:
+What does ‘CIA’ in cloud data security stand for?
+a. Confidentiality, Integrity, Availability
+b. Confidentiality, Inheritance, Automation
+c. Congestion, Integrity, Authentication
+d. Criticality, Integrity, Accountability
+Correct Answer: a. Confidentiality, Integrity, Availability
+Detailed Solution: ‘CIA’ stands for ‘Confidentiality, Integrity and Availability’. (Please refer Lecture
+39@21:01)
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 12:
+In SaaS model of cloud computing, which of the following acts as the thin-client?
+a. Cloud gateway
+b. Web monitor
+c. Web browser
+d. Local firewall
+Correct Answer: c. Web browser
+Detailed Solution: Web browsers at the client side act as thin-clients which makes connection to the cloud
+to receive the services provided by the SaaS model. Refer lecture 38 on SaaS, ppt No. 21.
+
+QUESTION 13:
+Data in __________ and Data at _______________ are two important aspects of data security
+a. past, present
+b. time, place
+c. transit, rest
+d. None of these
+Correct Answer: c. transit, rest
+Detailed Solution: Data in transit and Data at rest are two important aspects of data security within cloud
+computing framework. Refer lecture 39 on Data Security, ppt No. 18
+
+QUESTION 14:
+Which among the following is a metric for Service Level Agreement (SLA) in Cloud Computing?
+a. Availability
+b. Portability
+c. Response Time
+d. All of these
+Correct Answer: d. All of these
+Detailed Solution: Availability, Portability, Response Time, Problem Reporting and Penalty are various
+SLA metrics for Cloud Computing. Refer Chapter 10 (Page 245) of “Introduction to IoT” by Sudip Misra,
+Anandarup Mukherjee, Arijit Roy, Cambridge University Press.
+
+QUESTION 15:
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Which of the following cloud computing models does AWS EC2 belong to?
+a.
+b.
+c.
+d.
+
+IaaS
+PaaS
+SaaS
+None of these
+
+Correct Answer: a. IaaS.
+Detailed Solution: AWS EC2 is a popular example of IaaS.
+
+************END***********
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Introduction to
+Internet of Things
+Assignment-Week 9
+TYPE OF QUESTION: MCQ/MSQ
+Number of questions: 15
+
+Total marks: 15 X 1= 15
+
+QUESTION 1:
+Openstack is a free open source software for cloud framework simulation and experimentation with
+various cloud applications.
+a. True
+b. False
+
+Correct Answer: a. True
+Detailed Solution: Openstack is a free open source software for cloud framework simulation and
+experimentation with various cloud applications. It can be downloaded and installed for free. Refer Lecture
+41.
+
+QUESTION 2:
+Which among the following is NOT a component of OpenStack.
+a. Horizon
+b. Heat
+c. Plasma
+d. Neutron
+Correct Answer: c. Plasma
+Detailed Solution: Plasma is not a component of OpenStack. The rest are various components, including
+Nova, Glance, Swift etc. Refer lecture 41, ppt No. 4
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 3:
+You cannot ping your OpenStack instance from an outside network unless you connect your instance with
+the public network through a ____________
+a. Router
+b. Firewall
+c. Repeater
+d. Load balancer
+Correct Answer: a. Router
+Detailed Solution: You are supposed to connect your virtual OpenStack instance with the public network
+through a router (Please refer Lecture 41@17:41)
+
+QUESTION 4:
+Virtualized resources within the OpenStack simulator that you can define, set parameters of and deploy
+within OpenStack are also known as
+a. Instances
+b. Files
+c. Hypervisors
+d. Sketches
+Correct Answer: a. Instances
+Detailed Solution: In OpenStack instances refer to the virtual resources that you define, initialize and
+deploy. Refer Lecture 41@15:36
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 5:
+The SCSP in sensor clouds is responsible for caching the data in the databases.
+a. True
+b. False
+Correct Answer: a. True
+Detailed Answer: The SCSP in sensor clouds is responsible for caching the data in the databases. (Please
+refer Lecture 42@14:25)
+
+QUESTION 6:
+Select the correct option for replacing the box (in red) in the following architecture for sensor cloud user
+organization view.
+
+a.
+b.
+c.
+d.
+
+User credentials
+Template display
+Template view
+User view
+
+Correct Answer: c. Template view
+Detailed Solution: The browser interface sends template view and sensed information to the user
+organization module in the sensor cloud user organization view. (Please refer Lecture 42@15:16)
+
+QUESTION 7:
+Which among the following is the principal feature of sensor clouds, with respect to sensor nodes?
+a.
+b.
+c.
+d.
+
+Sensor monitoring
+Sensor instantiation
+Sensor virtualization
+Sensor collection
+
+Correct Answer: c. Sensor virtualization
+Detailed Solution: Sensor virtualization is the principal feature of sensor clouds and their utility.
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Refer lecture 42 and 43 on Sensor cloud
+
+QUESTION 8:
+Caching in sensor cloud provide no benefit over regions with slow environmental monitoring rate.
+a. True
+b. False
+Correct Answer: b. False
+Detailed Solution: To prevent unnecessarily energy wastage in continuous sensing operation, sensor
+cloud uses caching. Refer lecture 42 and 43.
+
+QUESTION 9:
+How many different types of caching mechanism are there in sensor cloud?
+a.
+b.
+c.
+d.
+
+1
+4
+2
+3
+
+Correct Answer: c. 2
+Detailed Answer: Internal Cache (IC) and External Cache (EC) are two different types of caching
+mechanisms used in sensor cloud. Refer lecture 43, ppt No. 13
+
+QUESTION 10:
+Virtual sensors within a sensor cloud have communication interfaces with _______________.
+a. Only the physical sensors below them
+b. Only the end-user applications above them.
+c. Both physical sensors below and applications above.
+d. Neither the physical sensors, nor the applications above.
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+Correct Answer: c. Both physical sensors below and applications above
+Detailed Solution: Virtual sensor layer sits in the middle having interface to both physical sensors as well
+as applications. (Please refer Lecture 3@9:24 and 28:01)
+
+QUESTION 11:
+Data from an IoT device is transferred to cloud via a network, which is then processed at the cloud and then
+a response is sent back to the IoT device from the cloud after processing. The time it takes for one-way data
+transfer between the node and cloud is 10s and the data processing time at the cloud is ‘x’ seconds. It takes
+a total of 25s for the entire to and fro transfer of data between the sensor and cloud along with processing
+at the cloud. What is the value of x?
+a. 10s
+b. 5s
+c. 15s
+d. 20s
+
+Correct Answer: b. 5s
+Detailed Solution: Time taken for one-way data transfer between the node and cloud is 10s. Total time
+taken for the data transfer is 25s. So 25=10+x+10 (transfer from node to cloud+processing at
+cloud+transfer from cloud to node). Thus x = 5s.
+
+QUESTION 12:
+In IoT, temporal sensitivity of data plays an important role
+a. True
+b. False
+Correct Answer: a. True
+Detailed Solution: IoT data can be classified in to time sensitive data, less time sensitive data and data not
+sensitive to time. Hence time sensitivity plays a big role in IOT data classification. Refer lecture 44 on Fog
+Computing.
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 13:
+Extremely time sensitive data in IoT should be processed and analyzed ____________.
+a. Farthest away from source
+b. Closest to the source
+c. Distance between source and place of analysis does not matter
+d. None of these
+Correct Answer: b. Closest to the source
+Detailed Solution: Extremely time sensitive data should be processed and analyzed closest to the source,
+so that prompt action can be taken immediately. Refer lecture 44 on Fog Computing, ppt No. 17.
+
+QUESTION 14:
+Which among the following is a view of a Fog Computing Architecture?
+a. Node View
+b. System View
+c. Software View
+d. All of these
+Correct Answer: d. All of these
+Detailed Solution: Fog Computing Architectural framework has several views, node, system and software
+among them. Refer Chapter 11 (Page 260 - 263) of “Introduction to IoT” by Sudip Misra, Anandarup
+Mukherjee, Arijit Roy, Cambridge University Press.
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 15:
+Which among the following is true?
+a. Fog computing acts as a complement to cloud computing.
+b. Fog computing is a replacement for cloud computing.
+c. Fog computing and cloud computing are the same.
+d. Fog computing is more powerful than cloud computing (with respect to resources).
+Correct Answer: a. Fog computing acts as a complement to cloud computing.
+Detailed Solution: Fog computing and cloud computing are complementary technologies. Fog helps in
+bringing the cloud closer to the IoT devices. (Please refer Lecture 45@1:06)
+
+************END***********
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+Introduction to
+Internet of Things
+Assignment-Week 10
+TYPE OF QUESTION: MCQ/MSQ
+Number of questions: 15
+
+Total marks: 15 X 1= 15
+
+QUESTION 1:
+A smart city _____________.
+a.
+b.
+c.
+d.
+
+Is an urban system
+Uses ICT
+Makes infrastructure more reliable
+All of these
+
+Correct Answer: d. All of these
+Detailed Solution: A smart city is an urban system, uses ICT and makes infrastructure more
+reliable. (Please refer Lecture 46@8:29)
+____________________________________________________________________________
+QUESTION 2:
+Collective data is more intelligent than the single sources.
+a.
+b.
+
+True
+False
+
+Correct Answer: a.
+Detailed Solution: Collective data is rich in information and generates better intelligence
+than the single sources. (Please refer Lecture 47@10:18)
+____________________________________________________________________________
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+QUESTION 3:
+Which of the following is one of the challenges of Data fusion?
+a.
+b.
+c.
+d.
+
+Imperfection
+Conflicts
+Ambiguity
+All of these
+
+Correct Answer: d. All of these
+Detailed Solution: The challenges of data fusion involves Imperfection, Conflicts and
+Ambiguity. (Please refer Lecture 47@9:16)
+____________________________________________________________________________
+QUESTION 4:
+Which of the following are challenges for IoT in smart cities?
+a.
+b.
+c.
+d.
+
+Security and Reliability
+Small scale
+Homogeneity
+None of these
+
+Correct Answer: a. Security and Reliability
+Detailed Solution: Security and Reliability are two challenges of IoT in smart
+cities. (Please refer Lecture 46 @32:28)
+____________________________________________________________________________
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 5:
+Fill in the blank.
+___________ combines information from multiple sensors.
+a.
+b.
+c.
+d.
+
+Data storage
+Data cleaning
+Data fusion
+None of these
+
+Correct Answer: c. Data fusion
+Detailed Solution: Data fusion combines information from multiple sensors. (Please
+refer Lecture 47 @6:36)
+____________________________________________________________________________
+QUESTION 6:
+Which of the following are the functional layers in smart parking?
+a.
+b.
+c.
+d.
+
+Information collection
+System Deployment
+Service Dissemination
+All of these
+
+Correct Answer: d. All of these
+Detailed Solution: Information collection, System Deployment and Service
+Dissemination are the three functional layers in smart parking (Please refer
+Lecture 47@17:25)
+____________________________________________________________________________
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 7:
+Which of the following statements are true about the different components present in a smart
+home?
+Statement I: Sensor networks and communication network infrastructure
+Statement II: Intelligent control and management
+Statement III: Manual instead of automatic access of devices
+a.
+b.
+c.
+d.
+
+Statements I and II
+Statements I and III
+Statements II and III
+Statements I, II and III
+
+Correct Answer: a. Statements I and II
+Detailed Solution: The different components of smart home include communication
+network infrastructure, Intelligent control and management, Sensor networks, smart
+features and automatic response. (Please refer Lecture 48@7:04)
+____________________________________________________________________________
+QUESTION 8:
+Which of the following are included in the Service Dissemination in smart parking?
+Statement I: Dynamic Pricing
+Statement II: Infrastructure-free and infrastructure-based information
+Statement III: Parking Choice
+a.
+b.
+c.
+d.
+
+Statement I and II
+Statement II and III
+Statement I and III
+Statement I, II and III
+Correct Answer: d. Statement I, II and III
+Detailed Solution: Service Dissemination in smart parking includes Dynamic Pricing,
+parking choice and infrastructure- free information and infrastructure-based
+information. (Please refer Lecture 47@19:07)
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+_______________________________________________________________________________
+QUESTION 9:
+Fill in the blank.
+____________ is a network contained within a home.
+a.
+b.
+c.
+d.
+
+Local area network
+Home area network
+Personal area network
+Metropolitan area network
+
+Correct Answer: b. Home area network
+Detailed Solution: Home area network is a network contained within a home (Please
+refer Lecture 48@8:38)
+____________________________________________________________________________
+QUESTION 10:
+Fill in the blank. In Vehicle-to-Human / Human-to-Vehicle interaction, the human communicating
+with the vehicle ____________.
+a.
+b.
+c.
+d.
+
+Is present in another vehicle
+Is present in the same vehicle
+Is present outside the vehicle on the roadside
+All of these
+Correct Answer: c. Is present outside the vehicle on the roadside
+Detailed Solution: In V2H/H2V, the human is present outside the vehicle on the
+roadside. (Please refer Lecture 49@3:13)
+
+_________________________________________________________________________
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 11:
+Wired HAN provides easy integration with pre-existing house infrastructure.
+a.
+b.
+
+True
+False
+
+Correct Answer: a. True
+Detailed Solution: Wired HAN provides easy integration with pre-existing house
+infrastructure like existing telephone systems, cables and so on (Please refer Lecture
+48@10:20)
+____________________________________________________________________________
+QUESTION 12:
+Which of the following statement(s) is/are true about Konnex?
+a.
+b.
+c.
+d.
+
+Utilizes only short ranges in home
+Can be used before configuration
+Does not have standards for building networks
+None of these
+
+Correct Answer: d. None of these
+Detailed Solution: The Konnex is an important standard for home and building
+networks. It utilizes full range of home communication. It must be setup and
+configured before its proper usage (Please refer Lecture 48@14:41)
+____________________________________________________________________________
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 13:
+Which of the following is the reason for failures of TCP/IP in V2X?
+a.
+b.
+c.
+d.
+
+TCP/IP handles information exchange between multiple pair of entities
+The increase in the number of wireless devices restricts the mobility
+TCP/IP can identify the addresses of the endpoints
+Information exchange does not depend on the location of the data
+
+Correct Answer: b. The increase in the number of wireless devices restricts the mobility
+Detailed Solution: The increase in the number of wireless devices restricts the
+mobility is one of the reasons of the failures of TCP/IP in V2X (Please refer Lecture
+49@13:09)
+____________________________________________________________________________
+QUESTION 14:
+CCN is derived from ICN architecture.
+a.
+b.
+
+True
+False
+
+Correct Answer: a. True
+Detailed Solution: CCN (Content Centric Networking) is derived from
+Information Centric Networking (ICN) (Please refer Lecture 49@15:32)
+____________________________________________________________________________
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 15:
+What are the disadvantages of V2X communication?
+a.
+b.
+c.
+d.
+
+Increased traffic safety
+Tracking of movement
+Efficient use of fuel
+None of these
+
+Correct Answer: b. Tracking of movement
+Detailed Solution: Disadvantages of V2X communication includes tracking of
+movement, violation of privacy, loss of data control, etc. (Please refer Lecture
+50@21:04)
+____________________________________________________________________________
+
+************END***********
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+Introduction to
+Internet of Things
+Assignment-Week 11
+TYPE OF QUESTION: MCQ/MSQ
+Number of questions: 15
+
+Total marks: 15 X 1= 15
+
+QUESTION 1:
+Which of the following is not done in traditional electrical grids?
+a.
+b.
+c.
+d.
+
+Manual energy monitoring
+Unidirectional energy distribution
+Unidirectional communication
+Distributed power plants
+
+Correct Answer: d. Distributed power plants
+Detailed Solution: In Traditional electrical grids, the energy generation is done in centralized
+power plants. (Please refer Lecture 51@5:45)
+____________________________________________________________________________
+QUESTION 2:
+Smart Grid is also named as—
+a.
+b.
+c.
+d.
+
+Electronet
+Energy service
+Grid with a brain
+Smart internet
+
+Correct Answer: a. Electronet
+Detailed Solution: Electronet is another name for smart grids (Please refer Lecture 51@7:41)
+____________________________________________________________________________
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 3:
+Which of the following is not a property of smart grids?
+a.
+b.
+c.
+d.
+
+Bidirectional flow of energy
+Two-way communication
+Unreliable and insecure electricity
+Control Capabilities
+
+Correct Answer: c. Unreliable and insecure electricity
+Detailed Solution: Smart Grids uses information technology to deliver electricity efficiently,
+reliably and securely (Please refer Lecture 51@7:41)
+____________________________________________________________________________
+QUESTION 4:
+Which of the following is the benefit of using Smart Grids for stakeholders?
+a.
+b.
+c.
+d.
+
+Reduces inefficiencies in energy delivery
+Different pricing options
+Lower Energy bills
+All of these
+
+Correct Answer: a. Reduces inefficiencies in energy delivery
+Detailed Solution: The smart grids reduce inefficiencies in energy delivery. This is one of the
+benefits for stakeholders. The other benefits are for the customers (Please refer Lecture 51
+@18:28)
+____________________________________________________________________________
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 5:
+Fill in the blank.
+___________ samples voltage and current with a fixed sample rate at the installed location.
+a.
+b.
+c.
+d.
+
+PEVs
+DAUs
+PMUs
+None of these
+
+Correct Answer: c. PMUs
+Detailed Solution: PMUs or Phasor Measurement Unit samples voltage and current with a fixed
+sample rate at the installed location (Please refer Lecture 52 @2:44)
+____________________________________________________________________________
+QUESTION 6:
+Which of the following is a cloud application of smart grid?
+a.
+b.
+c.
+d.
+
+Information management
+Energy management
+Security
+All of these
+
+Correct Answer: d. All of these
+Detailed Solution: Energy management, information management and security are all the cloud
+applications in smart grid (Please refer Lecture 52@21:55)
+____________________________________________________________________________
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 7:
+Which of the following statements are true about MDMSs?
+Statement I: Decide the price per unit energy to be paid by the customers
+Statement II: Handled by the energy service providers
+Statement III: Aggregate the energy consumption or energy request of certain geographical
+area
+a.
+b.
+c.
+d.
+
+Statements I and II
+Statements I and III
+Statements II and III
+Statements I, II and III
+
+Correct Answer: a. Statements I and II
+Detailed Solution: The Meter Data Management Systems (MDMS) decide the price per unit
+energy to be paid by the customers AND are handled by the energy service providers. (Please refer
+Lecture 52@16:02)
+____________________________________________________________________________
+QUESTION 8:
+Which of the following are included in the Smart Grid security issues of integrity?
+Statement I: System Damage
+Statement II: Data injection attacks
+Statement III: Time synchronization attacks
+a.
+b.
+c.
+d.
+
+Statement I and II
+Statement II and III
+Statement I and III
+Statement I, II and III
+
+Correct Answer: d. Statement I, II and III
+Detailed Solution: System Damage, data injection attacks and time synchronization attacks are
+the types of integrity issues in Smart Grids (Please refer Lecture 52@18:55)
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+_______________________________________________________________________________
+QUESTION 9:
+Fill in the blank.
+____________ is a primary challenge in IIoT.
+a.
+b.
+c.
+d.
+
+Worker health and safety
+Optimized operations
+Regulatory compliance
+Integrating existing infrastructure into new IIoT infrastructure
+
+Correct Answer: d. Integrating existing infrastructure into new IIoT infrastructure
+Detailed Solution: Integrating existing infrastructure into new IIoT infrastructure is one of the
+primary challenges of IIoT. (Please refer Lecture 54@14:02)
+____________________________________________________________________________
+QUESTION 10:
+Fill in the blank. Rt Tech particularizes in software which____________.
+a.
+b.
+c.
+d.
+
+Improves industrial facilities’ efficiency
+Improves productivity
+Automates managing of energy consumption
+All of these
+
+Correct Answer: d. All of the these
+Detailed Solution: Rt Tech improves industrial facilities efficiency and productivity. It automates
+the process of mapping and managing energy consumption (Please refer Lecture 54@20:30)
+
+_________________________________________________________________________
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+QUESTION 11:
+Lack of vision and leadership is not a hindrance in the path of success of IIoT.
+a.
+b.
+
+True
+False
+
+Correct Answer: b. False
+Detailed Solution: Lack of vision and leadership is one of the hindrances in the path of success
+of IIoT. (Please refer Lecture 54@18:44)
+____________________________________________________________________________
+QUESTION 12:
+Which of the following is not a vulnerability of Smart Grid?
+a.
+b.
+c.
+d.
+
+Integrity
+Physical threats
+Dynamic system attacks
+None of these
+
+Correct Answer: d. None of these
+Detailed Solution: Integrity, physical threats and dynamic system attacks are all the vulnerabilities
+of smart grids (Please refer Lecture 52@16:56)
+____________________________________________________________________________
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 13:
+Which of the following is a characteristic of Big Data?
+a.
+b.
+c.
+d.
+
+Veracity
+Variability
+Velocity
+All of these
+
+Correct Answer: d. All of these
+Detailed Solution: Big Data is characterized by 7 Vs, Veracity, Variability and Velocity included
+(Please refer Lecture 55@10:41)
+____________________________________________________________________________
+QUESTION 14:
+Variety refers to the category to which the data belongs.
+a.
+b.
+
+True
+False
+
+Correct Answer: a. True
+Detailed Solution: Variety refers to the category to which the data belongs. Examples: Pure text,
+images, audio, etc. (Please refer Lecture 55@12:58)
+____________________________________________________________________________
+
+NPTEL Online Certification Courses
+Indian Institute of Technology Kharagpur
+
+QUESTION 15:
+What is the Flow of data?
+a.
+b.
+c.
+d.
+
+Acquisition>Generation>Storage>Analysis
+Generation>Storage>Analysis>Acquisition
+Generation>Acquisition>Storage>Analysis
+None of these
+
+Correct Answer: c. Generation>Acquisition>Storage>Analysis
+Detailed Solution: The flow of the data is Generation, Acquisition, Storage and Analysis (Please
+refer Lecture 55@19:29)
+____________________________________________________________________________
+
+************END***********
+
+NPTEL Online Certification Courses
+
+Indian Institute of Technology Kharagpur
+Introduction to
+Internet of Things
+Assignment-Week 12
+TYPE OF QUESTION: MCQ/MSQ
+Number of questions: 15
+
+Total marks: 15 X 1= 15
+
+QUESTION 1:
+Quantitative analysis does not involve descriptive statistics such as mean.
+a.
+b.
+
+True
+False
+
+Correct Answer: b. False
+Detailed Solution: Quantitative analysis involves descriptive statistics such as mean, median and
+standard deviation. (Please refer Lecture 56@4:26)
+_________________________________________________________________________
+QUESTION 2:
+Fill in the blank.
+To perform an ANOVA, we must have a _______ response variable and at least one _____ factor.
+a.
+b.
+c.
+d.
+
+Discrete, categorical
+Continuous, quantitative
+Discrete, quantitative
+Continuous, categorical
+
+Correct Answer: d. Continuous, categorical
+Detailed Solution: To perform an ANOVA, we must have a continuous response variable and at
+least one categorical factor. (Please refer Lecture 56@9:24)
+________________________________________________________________________
+
+NPTEL Online Certification Courses
+
+Indian Institute of Technology Kharagpur
+
+QUESTION 3:
+Select the statement(s) that denote the example of dispersion measure.
+Statement I: Range, Variable and Standard deviation
+Statement II: Range and average absolute deviation
+Statement III: Variance, Standard deviation and average absolute deviation
+a.
+b.
+c.
+d.
+
+Statement I
+Statement II
+Statements I, II and III
+None of these
+
+Correct Answer: c. Statements I, II, and III
+
+Detailed Solution: The example of dispersion measure includes Range, Variable and Standard
+deviation and average absolute deviation (Please refer Lecture 56@13:36)
+_________________________________________________________________________
+QUESTION 4:
+The different components of AgriSens includes –
+a.
+b.
+c.
+d.
+
+Sensor and actuator unit
+Wireless communication unit
+Power management unit
+All of these
+
+Correct Answer: d. All of these
+Detailed Solution: The different components of AgriSens includes sensor and actuator unit,
+wireless communication unit, and power management unit. (Please refer Lecture 57@7:44)
+_________________________________________________________________________
+
+NPTEL Online Certification Courses
+
+Indian Institute of Technology Kharagpur
+
+QUESTION 5:
+The two most relevant sensors directly used in agricultures are __________.
+a.
+b.
+c.
+d.
+
+Soil moisture and proximity sensor
+Soil moisture and water level sensor
+ECG sensor and water level sensor
+All of these
+
+Correct Answer: b. Soil moisture and water level sensor
+Detailed Solution: Soil moisture and water level sensors are the necessary sensors generally used
+in agriculture. (Please refer Lecture 57@13:11)
+______________________________________________________________________________
+QUESTION 6:
+
+The sensor node of AgriSens sense the average soil moisture in ______________.
+a.
+b.
+c.
+d.
+
+Vegetative phase
+Reproductive phase
+Maturity phase
+All of these
+
+Correct Answer: d. All of these
+Detailed Solution: The sensor node of AgriSens sensed the average soil moisture in vegetative
+phase, reproductive phase and maturity phase (Please refer Lecture 57@18:33)
+______________________________________________________________________
+
+NPTEL Online Certification Courses
+
+Indian Institute of Technology Kharagpur
+
+QUESTION 7:
+Select the correct order of the component layers present in the IoT healthcare.
+a.
+b.
+c.
+d.
+
+Sensing layer, cloud platform layer, aggregated layer, processing layer
+Sensing layer, aggregated layer, processing layer, cloud platform layer
+Aggregated layer, sensing layer, processing layer, cloud platform layer
+Sensing layer, processing layer, aggregated layer, cloud platform layer
+
+Correct Answer: b. Sensing layer, aggregated layer, processing layer, cloud platform layer
+Detailed Solution: The sensing layer senses data and transmit it o the aggregation layer where the
+data are aggregated. The aggregated layer further transfers the data to the processing layer the data
+are processed and final sent to the cloud platform. (Please refer Lecture 58@8:25)
+_________________________________________________________________________
+QUESTION 8:
+Which of the following communication protocol is used in AmbuSens?
+a.
+b.
+c.
+d.
+
+IEEE 802.15.4
+6LoWPAN
+IEEE 802.15.1
+IEEE 802.15.2
+
+Correct Answer: c. IEEE 802.15.1
+
+Detailed Solution: In AmbuSens, the communication protocol used is Bluetooth i.e., IEEE
+802.15.1 (Please refer Lecture 58@22:09)
+_________________________________________________________________________
+
+NPTEL Online Certification Courses
+
+Indian Institute of Technology Kharagpur
+
+QUESTION 9:
+Wireless IoT driven solutions for remote healthcare facility provisioning brings healthcare to
+patients than bringing patients to healthcare.
+a. True
+b. False
+
+Correct Answer: a. True
+Detailed Solution: In IoT healthcare, wireless IoT driven solutions brings healthcare to patients
+than bringing patients to healthcare. (Please refer Lecture 58@11:40)
+_________________________________________________________________________
+QUESTION 10:
+Fill in the blank. The physical activity tracking is a necessary component for _____________.
+a.
+b.
+c.
+d.
+
+Activity monitoring
+Vehicle monitoring
+Agriculture monitoring
+All of these
+
+Correct Answer: a. Activity monitoring
+Detailed Solution: The physical activity tracking is a necessary component for activity
+monitoring (Please refer Lecture 59@6:39)
+_________________________________________________________________________
+
+NPTEL Online Certification Courses
+
+Indian Institute of Technology Kharagpur
+
+QUESTION 11:
+Which of the following handheld devices are used for activity monitoring?
+a.
+b.
+c.
+d.
+
+EEG and GPS
+Accelerometer and EEG
+Accelerometer and GPS
+All of these
+
+Correct Answer: c. Accelerometer and GPS
+Detailed Solution: High end smartphones are likely to have accelerometer, compass, and
+gyroscope. (Please refer Lecture 59@15:29)
+_________________________________________________________________________
+QUESTION 12:
+
+Which of the following is the primary disadvantage of using camera-based activity tracking?
+a.
+b.
+c.
+d.
+
+Accurate
+Process intensive
+Expensive
+None of these
+
+Correct Answer: b. Process intensive
+Detailed Solution: Camera based activity tracking is very much process intensive. (Please refer
+Lecture 59@17:43)
+____________________________________________________________________________
+
+NPTEL Online Certification Courses
+
+Indian Institute of Technology Kharagpur
+
+QUESTION 13:
+By performing continuous monitoring of a person’s activity, it is not possible to observe his/her
+behavior or to identify any repetitive pattern in his/her day-to-day activity.
+a. True
+b. False
+
+Correct Answer: b. False
+Detailed Solution: Continuous monitoring of activity results in daily observations of human
+behavior and repetitive patterns in their activity. (Please refer Lecture 59@14:33)
+_________________________________________________________________________
+QUESTION 14:
+
+Which of the following are the inbuilt sensors that are present in high end smartphones?
+a.
+b.
+c.
+d.
+
+ECG and EEG
+Accelerometer, proximity sensor, and EEG
+Accelerometer, Compass and Gyroscope
+Pressure sensor and NPK sensor
+
+Correct Answer: c. Accelerometer, Compass, and Gyroscope
+Detailed Solution: High end smartphones are likely to have accelerometer, compass, and
+gyroscope. (Please refer Lecture 60@2:28)
+_________________________________________________________________________
+
+NPTEL Online Certification Courses
+
+Indian Institute of Technology Kharagpur
+
+QUESTION 15:
+Fill in the blank. Processing the handheld activity device data with artificial intelligence can be
+used for ________.
+a.
+b.
+c.
+d.
+
+Fall detection
+Heart rate detection
+Vehicle detection
+All of these
+
+Correct Answer: a. Fall detection
+Detailed Solution: Processing the handheld activity device data with artificial intelligence can be
+used for detecting sudden fall of a person. (Please refer Lecture 60@11:56)
+_________________________________________________________________________
+
+
